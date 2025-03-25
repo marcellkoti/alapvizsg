@@ -1,0 +1,160 @@
+CÉGNÉV,VÁROS,IRÁNYÍTÓSZÁM,UTCA,TELEFON,ALKALMAZOTTAK,ALAPTŐKE,VEZETŐ
+9X Befektetési Tanácsadó Kft.,Szeged,1149,Akadémia u. 1-3.,272-1700,10,1000000,Bányai István
+D5 Fantázia St,Budapest,1067,Amerikai út 13.,1126729,10,1000000,Szabóné Zsuzsanna
+c.d.e. GEORGE Z.K. Rt.,Budapest,1045,Andrássy út 121.,1693231,50,16000,Alain Jourdan
+aK Építőip. Inf. és Marketing Iroda,Budapest,1088,Angol u. 10-20.,1384546;1384633/101,50,0,Tasi László
+ATTA Reklámügynökség,Budapest,1107,Angol út 9-11.,1772707,10,0,Szalay Katalin
+ARES Budapest PR Kft.,Szeged,1112,Apáczai Csere J. u. 11.,2671223;163-3625,10,0,Szabó Gabriella
+NOTH Piackutató Kft.,Budapest,1012,Apáczai Csere J. u. 12-14.,1159432;1359686;9290,10,0,Szabó János
+Driam 88 Kft,Szeged,1138,Apáczai Csere J. u. 4.,1498725,10,1700,Szűcs Zoltán
+Agrarmarketix Center Co. Inc.,Budapest,1075,Asbóth u. 9-11.,1415172;1415515,10,10000,Tóth Péter
+AAA bank Rt.,Budapest,1126,Attila u. 71. IV/3,1552722,700,4202000,Strack János
+Egeromplex Tervező Iroda Kft.,Budapest,1095,Bajcsy-Zsilinszky út 12.,2150992,10,0,Klopfer Tamás
+Kék csillag taxi Kft.,Budapest,1091,Bányalég út 80-84.,1576521;34,200,1000,Lázár Mihály
+KALAPOK Kft.,Budapest,1083,Bartók Béla út 152.,1331595,50,0,Ujhelyi Pál
+KARE Keresk. és Szolg. Kft.,Budapest,1055,Bartók Béla út 152.,1316236;1868075,10,1100,Monos Sebestyén
+American AAA Magyaro. Kft,Budapest,1027,Báthori u.10.,2015817;2020415;0570,50,0,Tordai Ferenc
+AAATOURS Utazási Iroda Kft.,Budapest,1051,Báthori u. 12.,1317167;1317312,10,25000,Komár Károly
+FILNET Kft,Budapest,1144,Bécsi út 122-124.,2522999,50,0,Váraljai Péter
+Xantra Kft.,Budapest,1123,Bécsi út 4.,1351528;1767;1551367,10,0,Geszti András
+KYKLOPS Biztosító Rt.,Budapest,1122,Belgrád rkp. 27.,1152600;1355550,50,1000000,Johan Decker
+Art 44 Stúdió,Budapest,1113,Bem rkp. 28.,1660801,10,5000,Tréfás Miklós
+LARTEX Nemz. Ker.-i Rt.,Budapest,1015,Bihari út 6.,1569244,50,240000,Bieber András
+PASA Építőipari Kft.,Budapest,1052,Borkő u. 8.,2661820,200,16750,Ábrahám András
+AUDIT NOW Könyvszakértő Rt.,Budapest,1077,Borostyán u. 1/B,1424320;1429938,50,10000,Horváth József
+AUSTROPRINT 2000 Kft.,Budapest,1149,Bosnyák tér 5.,1830799;1836503,50,0,Kertai Gyula
+AUTOKAR Rt.,Budapest,1132,Bosnyák u.7/b.,1299056;1299057,700,0,Szakállas Csaba
+ZAZASZINT Kft.,Budapest,1133,Böszörményi u. 24.,1203952,10,0,Virág Attila
+AA-GON Biztosító Rt.,Budapest,1091,Budafoki út 95.,2181866,1000,3920210,Kepecs Gábor
+C.Schwartz Medical Magyaro. Kft.,Budapest,1023,Állomás u. 3.,1882329,200,775000,Korom Lajos
+Roker Reklám Marketing Ügynökség,Budapest,1052,Csáktornya u. 5/B,1178739;2663993,10,0,Bodor László
+Ecobank Systems & Services Kft.,Budapest,1054,Csalogány u.13-19/a,1121874,50,33600,Jankó Géza
+BAU 88C Beruházó Fővállalkozó Kft.,Budapest,1143,Csörsz u.3.,2524377;2524663,10,3000,Földvári György
+Dillerbeck Budapest Kft.,Budapest,1074,Dávid Ferenc u. 6.,1426947,50,125000,Gerd H. Billerbeck
+ROBIN Kft.,Budapest,1077,Déli u. 11.,1229820;2678574,50,0,Kucseráné Ágnes
+BOHUMIL Kft.,Budapest,1141,Diószeghy Sámuel u.8,1632243;1835558,50,0,Rónai András
+KOBOLD Kft.,Budapest,1184,Diószegi út 37.,1588744;2910896,50,1000,Tanay istván
+Sőrkert Kereskedelmi Rt.,Budapest,1061,Diószegi út 60/A,1210760,50,1200000,Alsószentiványi Lajos
+Budaker Mérnöki Kft.,Budapest,1036,Dob u. 49.,188-2294,200,2085,Pozsonyi Zoltán
+Buda Kesztyűs Szövetkezet,Budapest,1075,Duna u. 42.,141-3627,200,60000,Tanyik János
+DK-Budai Villenyker.és Szolg. Kft.,Budapest,1033,Dunasor 11.,168-8260,200,0,Hollendonner János
+Bp. és Vidéke Rt.,Budapest,1106,Elnök u. 1.,147-5790,200,0,Balatoni Henrik
+Buda Business Kft.,Budapest,1072,Elnök u. 1.,268-0170;0319;0320,0,0,Bajnok Gábor
+Budafény Ker. és Festékgyártó Kft.,Budapest,1044,Eötvös u. 12-15.,169-3331;169-8513,200,306270,Szabó Lajos
+Budapest Film Rt,Budapest,1054,Erzsébet tér 4.,111-2494;111-2687,200,1272000,Port Ferenc
+Kalocsa Gyermek Nyelviskola Kft.,Budapest,1027,Falk M. u.7. fszt. 23.,212-1492,200,0,Grünvald Imre
+Budapest Hilton,Budapest,1014,Félhévizi u. 3-5.,175-1000,200,0,Némedi György
+Kecskemét Holding Rt,Budapest,1024,Ferenc u. 137.,1551484;1561337;8019,50,60000,Süthető Sándor
+Budapest Mariott Hotel,Budapest,1054,Fiasgyúk u.4-8.,266-7000,200,0,Michael A. Keskin
+BUDAPEST Mode Ruhaipari Kft.,Budapest,1145,Fogadó u. 4.,163-0395,200,100000,Ötvös Miklós
+Budapest Papír Kft.,Budapest,1131,Fogarasy út 206.,269-8795,10,0,Burger László
+Budapest Tourist Idegenforg.Rt.,Budapest,1051,Folyamőr u. 9-11.,118-6552,50,320000,Róna István
+Budapesti Agroker Rt.,Budapest,1158,Fraknó őt 12/a,163-5890;183-4196,200,0,
+Budapesti Vegyipari Gépgyár Rt.,Budapest,1103,Ganz u. 16.,147-2101;157-2511,200,251000,Suba János
+Budget Pannonia Autókölcsönző Kft.,Budapest,1088,Gergely u. 81.,155-4493,50,13640,Nagy László
+Buszesz Rt.,Budapest,1089,Gizella u. 42-44.,210-1385,700,2640000,Sági László
+Business World Kft.,Budapest,1027,Gránátos út 1-3.,1150645;2021492;4200,10,1500,Szénási István
+Capitol Kft.,Budapest,1202,Gyepsor u. 1.,1276960;2801520,50,8000,Répás Lajos
+Caritrade NGV International,Budapest,1026,Gyepsor u. 1.,2020044,200,150000,Karass Thomas
+Cartografia Kft.,Budapest,1149,Gyömrői út 76-80.,1633649,200,520000,Papp-Váry Árpád
+CASINOS Hungary,Budapest,1014,Gyömrői út 12-21.,1560858,200,0,Gellai Imre
+CASTELLUM-ART Kft.,Budapest,1147,Gyömröi út 61.,2511143;2529820,200,1300,Pincze Gábor
+Centrum Áruházak Rt.,Budapest,1056,Haller u.76. II/8.,,1000,5000000,Filák Józsefné
+Centrál Lízing Kft.,Budapest,1118,Háros u. 7.,2698020,200,0,Kádár Tibor
+CÉH Faipari Kft.,Budapest,1139,Hársfa u. 21.,1408880;2702313;116,50,25000,Gellért Gáborné
+Cél Gazdasági Rt.,Budapest,1121,Hermina út 17.,1556961,50,0,Kovácsné Egedi Éva
+CHEMOL Kereskedelmi Rt.,Budapest,1134,Hess András tér 1-3.,2698520;122,200,833000,Gombocz Zoltán
+Chinoin Rt.,Budapest,1045,Horváth M. tér 8.,1690900;2500,1000,4000000,György Miklós
+City Kábel Kft.,Budapest,1051,Hungária krt. 140-144.,1178453;1372343,50,26000,Borz Miklós
+Civil Biztonsági Szolgálat Kft.,Budapest,1119,Hungária krt. 148.,1851786;2698160,200,0,Szécsi György
+CLH Csőszer-Léghűtés Kft.,Budapest,1103,Huszár u. 7.,1274290,50,25600,Rébay Lajos
+CO-REKT Építőipari és Szolg. Kft.,Budapest,1096,Ilosvai S. 64.,2154330;2169450,50,0,Pege Gyula
+COBALT Kft.,Budapest,1221,Irányi u. 17.,2263147;2264896,50,0,Mocsáry György
+POLGEAT-COCOLIVE Hungary,Budapest,1016,Izabella u. 2.,1556682,50,0,Kenneth Codam
+Colperx Biztosító Rt.,Budapest,1134,Jászberényi őt 86/c,2698700,200,1000,Diether Heermann
+COLSSZÓ-ART Shop,Budapest,1013,Jegenye fasor 15.,2024745,50,0,Szerdaelyi László
+CONTAAT Telefon Alközp. Kft.,Budapest,1107,József A. u. 94-100.,1277820,700,0,Gricserné Enikő
+Coorg Tanácsadó Kft.,Budapest,1137,József nádor tér 5-6.,2694698,50,10000,Ziebedits János
+Constube Hungaria Kft.,Budapest,1033,Károly krt. 24.,2501152,50,0,Hifner Judit
+Conzolecio Tanácsadó Kft.,Budapest,1024,Kárpát u. 1/B,2011492;2093;2257,50,0,Kausay Kristóf
+Coopers & Sons Kft.,Budapest,1024,Kékvirág u. 12.,1350140,200,175000,Bernard Delomenie
+LIPEXCO Kft.,Budapest,1046,Keresztúri út 210.,1427548,200,16000,Herda Ignác
+Cravontes Kft.,Budapest,1089,Késmárk u. 86.,1137548;1145330,50,0,András Attila
+Cyclon Laboratories Bt.,Budapest,1025,Késmárk út 107.,1151669,50,10300,Szejtli József
+AA + AA Kft.,Budapest,1115,Kiskorona u.20.,1610955;1822596,50,1000,Andrékáné Edit
+Kotrándi Kereskedőház Rt.,Budapets,1211,Kőbányai út 21.,2760711,50,0,Kovács András
+Szemcsény MUVEK Ipari Egyesülés,Budapest,1211,Kőbányai út 47/b,2770754,50,39000,Komondy Ferenc
+Lepényesi Kórház,Budapest,1211,Könyvkötű u. 12.,2765511,200,0,Bálványossy Péter
+Apóstextil Kft.,Budapest,1095,Kövér Lajos u. 56.,1277293;2830510,50,17900,Árkai György
+A&A Építőipari Kft.,Budapest,1106,Kuny Domokos u. 13-15.,1571938,50,1500,Darvai János
+BANANE Kft.,Budapest,1106,Ladik út 1.,1273893;1570703,50,0,Fazekas László
+Búza Szálloda és Gyógyüdülő Rt.,Budapest,1138,Lánchíd u. 5.,1121000;2690254,1000,8000000,Betegh Sándor
+DEKOR KETTŐ Külker.-i Kft.,Budapest,1158,Lövőház u. 50.,1636203,50,0,Turay Attila
+Dental Force Kft.,Budapest,1149,Madridi u. 6-8.,2526000,50,0,Illyés Domokos
+Wednesday Szerszámgyártó Rt.,Budapest,1222,Margit krt. 43-45.,2263875;72,200,336,Jandó Ferenc
+DDD Magyarország Kft.,Budapest,1088,Margit krt.85.,2667777,200,0,Roger Swinbum
+DIAGNOSTICITIS Kft.,Budapest,1124,Margitsziget,18581582,50,50000,Péterfy Ferenc
+TRIEC Gyártó és Ker.-i Kft.,Budapest,1193,Maros u. 19-21.,1270868,50,0,Bakos Péter
+MOLEY Kft.,Budapest,1142,Mártírok útja 245.,2514336,6319,7752,200,1450,Somogyi Endréné
+Rilla Kereskedelmi Kft.,Budapest,1065,Meredek u. 13.,1181133,50,4500,Gerger János
+Tri PONT Hungary Kft.,Budapest,1145,Mérleg u. 4.,2510222,50,0,David Bloomfield
+GUNA Autójavító Kft.,Budapest,1037,Mérnök u. 12.,1889176;1689003,200,28000,Ormos István
+BBB BANK Rt.,Budapest,1054,Mester u. 11.,2693292;2693377,200,1000000,Horváth Tibor
+Ikopack Papír és Csomagolóanyag Rt.,Budapest,1215,Mészáros u. 48-54.,2771133,1000,20000,Galli Miklós
+DUPRINT Rt.,Budapest,1117,Nádor u. 14.,1669363,50,0,Györgyi János
+DUNALINE Rt.,Budapest,1023,Nagydiófa u.5.,1686295;8690;1887150,200,2553000,Valter Buttafava
+PEDUSC Budapest Kft.,Budapest,1152,Nagykőrősi út 129.,1695566;5686;5956,200,0,Sziget Pál
+ELAX Ker.-i és Vendéglátó Rt.,Budapest,1096,Nagymező u. 44.,2153918,700,141400,Ujhellyi András
+Wild Smile Konfekcióipari Rt.,Budapest,1089,Október 23. u. 16.,1136938,200,15700,Karacs Lajosné
+ECLO Ipari Szolgáltató Kft.,Budapest,1102,Október 6. u. 7.,1148440,50,3500,Hargitai Zoltán
+HELINEX Kft.,Budapest,1033,Ötvös János u. 2-4.,1887740,50,0,Vékony István
+Első Dunai BBB Kft.,Budapest,1011,Pancsova u. 4.,1559244,50,0,Pak Man Hum
+Első Magyar AAA Kft.,Budapest,1107,Paulay E. u. 41.,1474760,200,0,Csapó Attila
+ELIZE Biztonságtechnikai Rt.,Budapest,1138,Peterdy u. 6.,2701011,200,0,Hegedűs Béla
+AAA Szálloda és Vendéglátó Rt.,Budapest,1113,Petőfi S. u. 7.,1851188,700,0,Karikás györgy
+DERE Elektronika Mérnöki Kft.,Budapest,1117,Puskin u.6.,2090966;75,50,0,Vavrik Antal
+ERDEI  MÉZ Vállalkozás Rt.,Budapest,1074,Pusztaszeri u. 59-67,1229439,700,0,Balogh Ádám
+CSIGÉRT Vállalat,Budapest,1054,Rákóczi út 1-3.,1534444,700,0,Anda István
+PERGOTRA Kft.,Budapest,1162,Rákóczi út 1-3.,1849668,50,0,Fehér László
+FERI Ingatlankarbantartó Vállalat,Budapest,1071,Rákospatak u. 60/a,1220024;129,700,66550,RAbb Viktor
+SERKON Építőipari és Szolg. Kft.,Budapest,1142,Remény u. 42.,2520160,50,1000,Nemes Béla
+BERNST & KEN Kft.,Budapest,1146,Reviczky u. 4.,2528333,200,62900,Terták Ádám
+INNO Hungaria Ker.-i Kft.,Budapest,1021,Róbert K. krt.61-65.,1761760;2200,50,605000,Karl Hackstock
+SET-TERV Rt.,Budapest,1054,Róbert K.krt. 76-78.,1123270;1314100,200,0,Szluha Dénes
+EURO Pert Kft.,Budapest,1145,Roosevelt tér 5.,1637582;1833131,50,0,Havasi Raymond
+Exportvilág Biztosítási Rt.,Budapest,1065,Rottenbiller u. 21.,2691197,50,2000000,Löblin János
+Rirf Utazási és Szálloda Rt.,Budapest,1054,Rumbach S. u. 14.,1317777,200,747000,Pinkőczy lászló
+ÉGTR Kutató és Szervező Kft.,Budapest,1113,Rumbach S.u.6.,1620675,50,20000,Saád András
+Spanyol Építéstudományi Intézet,Budapest,1113,Semmelweiss u. 23.,1852544,200,0,Páti Gyula
+Efg Intézet,Budapest,1113,Sopron út 40.,1851511,200,0,Gereben Zoltán
+AAAi Tájékoztatási Központ Kft.,Budapest,1074,Soroksári u. 164.,1117317;1422183,50,0,Hamvay Péter
+WAIRTOL Ker.-i és Szolg. Kft.,Budapest,1101,Soroksári út 98.,1271660;2448,50,0,Balázs György
+Tűzfal Magasépítési Tervező Rt.,Budapest,1051,Süveg u. 18.,2660751;2662627,50,0,Herbert Diana
+Xellina Hungaria Kft.,Budapest,1042,Szabadság tér 11.,1694706,200,72500,Jancsecz Ferencné
+Zivatar Felújító Épületgépészeti Kft.,Budapest,1062,Szabadság tér 16.,2681859,50,0,Hangyál Józseg
+GERCO Ker.-i és Szol. Kft.,Budapest,1051,Szász Károly u.2.,1172269,50,6000,Hantó Kálmán
+Fertály Külkereskedelmi Váll.,Budapest,1051,Széchenyi rkp. 3.,1172611,50,0,Kovács Gyula
+Pécsi Kereskedőház Rt.,Budapest,1052,Széhet út 92.,1176822,50,80000,Kanev László
+Fodor Hotel Budapest,Budapest,1052,Szentendrei út 129.,1178088;9111,50,0,Wolff Péter
+Feszter Mélyépítő Rt.,Budapest,1181,Szentháromság tér 6.,1277470,700,0,Tar István
+Filan Tervező Rt.,Budapest,1011,Szentkirályi út 28.,2025788,200,0,Molnár László
+Mezopot Kereskedelmi Kft.,Budapest,1146,Szigony u. 10.,2515001;5,200,662880,Kézdi Károlyné
+Budapest CHH Intézet,Budapest,1082,Szilágyi D.tér Alsó rkp.,2101030,200,0,Szebenyi Péter
+Lyles Rt.,Budapest,1134,Szilágyi E. fasor 47,2703333,2777,200,0,Cséry Pál
+DAMA Dán-Magyar Papírfeld. Kft.,Budapest,1087,Telek u. 5.,1139226,50,0,Káldy József
+Frank és fia Nyomda és Kiadó Kft.,Budapest,1088,Teréz krt. 19,1384477;4500,700,98000,Győry Géza
+Fujilight Magyarország Kft.,Budapest,1088,Thököly út 137.,2664563;6218,50,0,Takato Fujitsima
+FERT Kft.,Budapest,1145,Tó u. 1-5.,2511305;8472,200,135000,Futó Péter
+Fundaqt Építőipari Kft.,Budapest,1021,Toldy F. u. 12.,1763944,50,16500,Titz József
+ROZS Rt.,Budapest,1075,Ujpest rkp. 8.,2696550,50,0,Lacfi Dániel
+GENERAL-WATER Rt.,Budapest,1119,Üllői út 1.,1613569;2698169,50,121000,Schnábel Zoltán
+GENF Budapest Biztosító Rt.,Budapest,1012,Üllői út 95.,1553573;4330;4584,1000,1000,Vágó Zsolt
+Suszter Vállalat,Budapest,1103,Váci u. 202.,1473535;1271862,400,0,Ladányi József
+TTT Express Kft.,Budapest,1204,Váci út 117-119.,1485168;1284845,30,5000,Várnai György
+Audio waves Kft.,Budapest,1225,Váci út 20-26.,2261027;4280;8384,0,0,Varga Koritár Zoltán
+Elementer Rt.,Budapest,1146,Váci út 23-27.,2517688;1223623,122,1000000,Mayer-Röck Harold
+Kovács Miklós Rt.,Budapest,1103,Váci út 81-85.,1770400,6182,9999999,Szolnoki József
+PHARMA mode Külker.-i Vállalat,Budapest,1051,Villányi őt 91.,1185966,150,0,Mészáros Lajos
+Rubin Ékszerkereskedelmi Váll.,Budapest,1051,Vörösmarty tér 3.,1183220;1113450,818,592000,Miholek István
+Diasomber Kft.,Budapest,1034,Zádor u. 4.,1686880,220,340000,Breitner Miklós
+Dutch Universal Rt.,Budapest,1052,Zay u. 24.,1384673,50,1000000,Bordás György

@@ -1,0 +1,46 @@
+#blg_pic{
+    
+    width:100%;
+    margin-left: 10px;
+    
+}
+.elete{
+    float:right;
+    width:30%;
+}
+.blg_pic_mt{
+    border-radius: 10%;
+    margin-top: 5%;
+}
+.pipa{
+    width: 50px;
+   
+}
+p:first-letter{
+    margin-left:5%;
+}
+cite{
+    text-align: center;
+}
+h4{
+    margin:1rem 0;
+    font-weight: 700;
+}
+.card{
+    
+    width: 30%;
+}
+li{
+    list-style-image: url("succico_50.jpg");
+    padding:10px 0;
+}
+footer{
+    background-color: cornflowerblue;
+    color:rgb(253, 252, 161);
+    
+}
+@media screen and (max-width: 772px){
+    .card{
+        width: 100%;
+    }
+}
